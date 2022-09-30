@@ -1,0 +1,12 @@
+1664502747446	geckodriver	INFO	Listening on 127.0.0.1:60040
+1664502750598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilec39c8E"
+1664502751214	Marionette	INFO	Marionette enabled
+1664502751225	Marionette	INFO	Listening on port 60053
+Read port: 60053
+WebDriver BiDi listening on ws://127.0.0.1:60041
+1664502751390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilec39c8E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60041/devtools/browser/f78eaca8-0677-4ede-b750-5aa756704663
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.service.nsw.gov.au."
+1664502800259	Marionette	INFO	Stopped listening on port 60053
+[Parent 67628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

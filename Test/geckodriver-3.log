@@ -1,0 +1,11 @@
+1664360001232	geckodriver	INFO	Listening on 127.0.0.1:55194
+1664360004332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePyl0Hn"
+1664360004695	Marionette	INFO	Marionette enabled
+1664360004700	Marionette	INFO	Listening on port 55205
+Read port: 55205
+WebDriver BiDi listening on ws://127.0.0.1:55195
+1664360004839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePyl0Hn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55195/devtools/browser/678c30f2-12b0-4d1a-9da5-7da65b3bc301
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.service.nsw.gov.au."
+1664360041278	Marionette	INFO	Stopped listening on port 55205
